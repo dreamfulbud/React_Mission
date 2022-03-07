@@ -1,0 +1,23 @@
+form {
+	display: flex;
+	gap: 0.4rem;
+	input[type="text"] {
+		flex-grow: 10;
+		border: 1px solid #ddd;
+		border-radius: 0.4rem;
+		height: 2rem;
+		text-indent: 10px;
+		font-size: 1rem;
+		&::placeholder {
+			color: #ccc;
+			font-size: 1rem;
+		}
+	}
+	input[type="submit"] {
+		flex-grow: 1;
+		color: royalblue;
+		background: #fff;
+		border: 2px solid royalblue;
+		border-radius: 0.4rem;
+	}
+}
