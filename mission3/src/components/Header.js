@@ -24,15 +24,15 @@ function Header() {
 		navigate(`/search?q=${e.target.value}`);
 	};
 	return (
-		<header className={`${show && "nav_black"}`}>
+		<header className={`header ${show && "nav_black"}`}>
 			<h1>
 				<a href="/">
-					<img src="../img/logo.svg" alt="넷플릭스" />
+					<span className="a11y-hidden">Netflix</span>
 				</a>
 			</h1>
 			<input value={searchValue} onChange={handleChange} className="search-input" type="text" placeholder="영화를 검색해 주세요" />
 			<button>
-				<img src="../img/profile_icon.png" alt="profile" />
+				<span className="a11y-hidden">profile</span>
 			</button>
 		</header>
 	);
