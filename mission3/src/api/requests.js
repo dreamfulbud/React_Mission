@@ -1,0 +1,15 @@
+// https://www.themoviedb.org/documentation/api/discover
+// https://developers.themoviedb.org/3/movies/get-top-rated-movies
+const requests = {
+	fetchNowPlaying: "/movie/now_playing",
+	fetchNeflixOriginals: "/discover/tv?with_networks=213",
+	fetchTrending: "/trending/all/week",
+	fetchTopRate: "/movie/top_rated",
+	fetchActionMovies: "/discover/movie?with_genres=28",
+	fetchComedyMovies: "/discover/movie?with_genres=35",
+	fetchHorrorMovies: "/discover/movie?with_genres=27",
+	fetchRomanceMovies: "/discover/movie?with_genres=10749",
+	fetchDocumentMovies: "/discover/movie?with_genres=99",
+};
+
+export default requests;
