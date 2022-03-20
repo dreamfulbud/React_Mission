@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/React_Mission/mission2/static/css/main.cccc8959.css",
-    "main.js": "/React_Mission/mission2/static/js/main.cfd65f3a.js",
-    "static/js/787.6fe889a1.chunk.js": "/React_Mission/mission2/static/js/787.6fe889a1.chunk.js",
-    "static/media/edit.svg": "/React_Mission/mission2/static/media/edit.97c9b2f5b63e83b7d23f.svg",
-    "index.html": "/React_Mission/mission2/index.html",
-    "static/media/delete.svg": "/React_Mission/mission2/static/media/delete.708ab1fcb823e666c5e7.svg",
-    "static/media/check.svg": "/React_Mission/mission2/static/media/check.07e6e84f8638dc28dd6d.svg",
-    "main.cccc8959.css.map": "/React_Mission/mission2/static/css/main.cccc8959.css.map",
-    "main.cfd65f3a.js.map": "/React_Mission/mission2/static/js/main.cfd65f3a.js.map",
-    "787.6fe889a1.chunk.js.map": "/React_Mission/mission2/static/js/787.6fe889a1.chunk.js.map"
+    "main.css": "/React_Mission/static/css/main.f3e37f9b.css",
+    "main.js": "/React_Mission/static/js/main.293d6335.js",
+    "static/js/787.6d394884.chunk.js": "/React_Mission/static/js/787.6d394884.chunk.js",
+    "index.html": "/React_Mission/index.html",
+    "main.f3e37f9b.css.map": "/React_Mission/static/css/main.f3e37f9b.css.map",
+    "main.293d6335.js.map": "/React_Mission/static/js/main.293d6335.js.map",
+    "787.6d394884.chunk.js.map": "/React_Mission/static/js/787.6d394884.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cccc8959.css",
-    "static/js/main.cfd65f3a.js"
+    "static/css/main.f3e37f9b.css",
+    "static/js/main.293d6335.js"
   ]
 }
